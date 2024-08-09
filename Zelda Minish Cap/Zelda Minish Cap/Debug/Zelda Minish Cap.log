@@ -1,0 +1,11 @@
+﻿  Player.cpp
+C:\Users\조우택\Desktop\할로우 나이트 진행중\Zelda Minish Cap\Zelda Minish Cap\Player.cpp(21,88): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조우택\Desktop\할로우 나이트 진행중\Zelda Minish Cap\Zelda Minish Cap\Player.cpp(22,44): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조우택\Desktop\할로우 나이트 진행중\Zelda Minish Cap\Zelda Minish Cap\Player.cpp(23,53): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조우택\Desktop\할로우 나이트 진행중\Zelda Minish Cap\Zelda Minish Cap\Player.cpp(222,30): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조우택\Desktop\할로우 나이트 진행중\Zelda Minish Cap\Zelda Minish Cap\Player.cpp(241,33): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\조우택\Desktop\할로우 나이트 진행중\Zelda Minish Cap\Zelda Minish Cap\Player.cpp(1309,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\조우택\Desktop\할로우 나이트 진행중\Zelda Minish Cap\Zelda Minish Cap\Player.cpp(1460,21): warning C4552: '-': 식의 결과가 사용되지 않습니다.
+  Portal.cpp
+  코드를 생성하고 있습니다...
+  Zelda Minish Cap.vcxproj -> C:\Users\조우택\Desktop\할로우 나이트 진행중\Zelda Minish Cap\Debug\Zelda Minish Cap.exe
